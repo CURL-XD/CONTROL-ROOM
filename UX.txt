@@ -1,3 +1,3 @@
-1
-2
-3
+[FBAN/FB4A;FBAV/330.0.0.68.394;FBBV/212882738;FBDM/{density=2.0,width=1080,height=2080};FBLC/en_GB;FBRV/0;FBCR/null;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N976V;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/367.0.0.35.129;FBBV/332956887;FBDM/{density=2.0,width=720,height=1430};FBLC/ru_RU;FBRV/0;FBCR/MTS RUS;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1906;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/310.0.0.60.150;FBBV/278384351;FBDM/{density=2.0,width=720,height=1400};FBLC/en_US;FBRV/0;FBCR/Boost Mobile;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g fast;FBSV/11;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]
