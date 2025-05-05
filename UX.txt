@@ -1,3 +1,0 @@
-[FBAN/FB4A;FBAV/420.0.0.49.118;FBBV/298675769;FBDM/{density=2.75,width=1080,height=2168};FBLC/en_AU;FBRV/0;FBCR/null;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/Redmi Note 9 Pro;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/339.0.0.32.118;FBBV/323006995;FBDM/{density=2.75,width=720,height=1369};FBLC/en_BD;FBRV/0;FBCR/null;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 8;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/346.0.0.49.118;FBBV/332957390;FBDM/{density=2.75,width=1080,height=1800};FBLC/en_GB;FBRV/0;FBCR/null;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/BAC-L22;FBSV/9.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
